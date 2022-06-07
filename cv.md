@@ -2,7 +2,7 @@
 1. Contacts
 + alina.stempkowskaya@yandex.ru
 + viber +375 29 794 26 06
-2. I am a doktor. I work in a hospital. I'm very tired. I want to change my work.
+2. I'm a doktor. I work in a hospital. I'm very tired. I want to change my work.
 3. Skills:
 + HTML
 + CSS
