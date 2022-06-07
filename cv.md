@@ -13,4 +13,4 @@
 6. Languages
 + English - A1, continue to study
 + Polish language - A2, continue to study
-+ Russian language - I am a native speaker
++ Russian language - I'm a native speaker
